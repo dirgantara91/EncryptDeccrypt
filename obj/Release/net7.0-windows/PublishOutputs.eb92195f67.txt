@@ -1,0 +1,5 @@
+D:\New folder (7)\EncryptDeccrypt.exe
+D:\New folder (7)\EncryptDeccrypt.dll
+D:\New folder (7)\EncryptDeccrypt.deps.json
+D:\New folder (7)\EncryptDeccrypt.runtimeconfig.json
+D:\New folder (7)\EncryptDeccrypt.pdb

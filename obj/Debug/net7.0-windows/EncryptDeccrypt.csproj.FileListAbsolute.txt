@@ -1,0 +1,17 @@
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\obj\Debug\net7.0-windows\EncryptDeccrypt.csproj.AssemblyReference.cache
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\obj\Debug\net7.0-windows\EncryptDeccrypt.Form1.resources
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\obj\Debug\net7.0-windows\EncryptDeccrypt.csproj.GenerateResource.cache
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\obj\Debug\net7.0-windows\EncryptDeccrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\obj\Debug\net7.0-windows\EncryptDeccrypt.AssemblyInfoInputs.cache
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\obj\Debug\net7.0-windows\EncryptDeccrypt.AssemblyInfo.cs
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\obj\Debug\net7.0-windows\EncryptDeccrypt.csproj.CoreCompileInputs.cache
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\bin\Debug\net7.0-windows\EncryptDeccrypt.exe
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\bin\Debug\net7.0-windows\EncryptDeccrypt.deps.json
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\bin\Debug\net7.0-windows\EncryptDeccrypt.runtimeconfig.json
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\bin\Debug\net7.0-windows\EncryptDeccrypt.dll
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\bin\Debug\net7.0-windows\EncryptDeccrypt.pdb
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\obj\Debug\net7.0-windows\EncryptDeccrypt.dll
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\obj\Debug\net7.0-windows\refint\EncryptDeccrypt.dll
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\obj\Debug\net7.0-windows\EncryptDeccrypt.pdb
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\obj\Debug\net7.0-windows\EncryptDeccrypt.genruntimeconfig.cache
+C:\Users\147291.WILLIAM\source\repos\EncryptDeccrypt\obj\Debug\net7.0-windows\ref\EncryptDeccrypt.dll
